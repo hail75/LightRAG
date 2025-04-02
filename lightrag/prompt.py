@@ -186,7 +186,6 @@ Khi xử lý các mối quan hệ có dấu thời gian:
 - Sử dụng định dạng markdown với các tiêu đề phần phù hợp.
 - Vui lòng trả lời bằng cùng ngôn ngữ với câu hỏi của người dùng.
 - Đảm bảo câu trả lời duy trì tính liên tục với lịch sử hội thoại.
-- Liệt kê tối đa 5 nguồn tham khảo quan trọng nhất ở cuối dưới phần "Tham khảo". Chỉ rõ nguồn đến từ Knowledge Graph (KG) hoặc Dữ liệu Vector (DC), kèm theo đường dẫn tệp nếu có, theo định dạng: [KG/DC] file_path
 - Nếu bạn không biết câu trả lời, hãy nói vậy.
 - Không bịa đặt thông tin. Không bao gồm thông tin không có trong Cơ sở Tri thức.
 """
@@ -279,7 +278,6 @@ Khi xử lý nội dung có dấu thời gian:
 - Sử dụng định dạng markdown với các tiêu đề phần phù hợp.
 - Vui lòng trả lời bằng cùng ngôn ngữ với câu hỏi của người dùng.
 - Đảm bảo câu trả lời duy trì tính liên tục với lịch sử hội thoại.
-- Liệt kê tối đa 5 nguồn tham khảo quan trọng nhất ở cuối dưới phần "Tham khảo". Chỉ rõ nguồn đến từ Knowledge Graph (KG) hoặc Dữ liệu Vector (DC), kèm theo đường dẫn tệp nếu có, theo định dạng: [KG/DC] file_path
 - Nếu bạn không biết câu trả lời, hãy nói vậy.
 - Không bao gồm thông tin không có trong các Đoạn Văn Bản.
 """
@@ -339,7 +337,6 @@ Khi xử lý thông tin có dấu thời gian:
 - Đảm bảo câu trả lời duy trì tính liên tục với lịch sử hội thoại.
 - Tổ chức câu trả lời theo các phần, mỗi phần tập trung vào một điểm hoặc khía cạnh chính.
 - Sử dụng các tiêu đề phần rõ ràng và mô tả chính xác nội dung.
-- Liệt kê tối đa 5 nguồn tham khảo quan trọng nhất ở cuối dưới phần "Tham khảo". Chỉ rõ nguồn đến từ Knowledge Graph (KG) hoặc Dữ liệu Vector (DC), kèm theo đường dẫn tệp nếu có, theo định dạng: [KG/DC] file_path
 - Nếu bạn không biết câu trả lời, hãy nói vậy. Không bịa đặt thông tin.
 - Không bao gồm thông tin không có trong các Nguồn Dữ liệu.
 """
